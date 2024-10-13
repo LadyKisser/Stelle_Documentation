@@ -45,7 +45,7 @@ Head over to the HoYoLab website.
   - Ensure you're logged in to your account.
   - Look for another request in the list.
 
-  ![Screenshot 2024-10-13 223326](https://github.com/user-attachments/assets/afe0d0f1-de1a-4cc4-9515-69e6e9cbe1f3)
+  ![Screenshot 2024-10-13 223326](https://github.com/user-attachments/assets/6cdf86a5-7f8f-4507-8d2b-4124cbb69d62)
 
 ---
 
