@@ -74,3 +74,9 @@ Head over to the HoYoLab website.
 ### Need Help?
 
 If you need further assistance, feel free to open a support ticket in our server. We're here to help!
+
+---
+
+### Important Note
+
+**Do not log out of HoYoLab.** If you log out or your cookies expire, the bot will notify you to update your account information.
